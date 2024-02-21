@@ -1,0 +1,34 @@
+body{
+        font-family: "Roboto", sans-serif;
+        background-color: #0dcaf0
+        
+}
+
+
+.nav-item{
+   
+    color: white;
+    justify-content: flex-end;
+}
+
+h1{
+    color: white;
+    font-size: 70px;
+}
+
+
+.container-fluid{
+    margin: 0%;
+    padding: auto;
+}
+.div text-center{
+    background-color: white;
+}
+
+.bg-white{
+
+    margin: 0;
+    width: 100%;
+    justify-content:center;
+
+}
